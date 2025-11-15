@@ -1,5 +1,5 @@
 # Blake Robinson
-<img src="https://blake.so/linker/images/i7e83.jpg" align="right" width="100">
+<img src="https://raw.githubusercontent.com/blakejrobinson/blakejrobinson/refs/heads/main/blake_transparent.png" align="right" width="100">
 Developer and technical artist. I build small, practical tools that solve production problems. I also have lots of arty interests including 3D printing, music, 2D/3D art and more.
 
 ## Focus
