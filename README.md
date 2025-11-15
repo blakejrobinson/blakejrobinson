@@ -1,4 +1,5 @@
 # Blake Robinson
+<img src="https://blake.so/linker/images/i7e83.jpg" align="right" width="100">
 Developer and technical artist. I build small, practical tools that solve production problems. I also have lots of arty interests including 3D printing, music, 2D/3D art and more.
 
 ## Focus
