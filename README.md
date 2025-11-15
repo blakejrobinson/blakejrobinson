@@ -1,16 +1,15 @@
-## Hi there 👋
+# Blake Robinson
+Developer and technical artist. I build small, practical tools that solve production problems across code, music, 3D and games.
 
-<!--
-**blakejrobinson/blakejrobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Focus
+- C++, Python, Node.js
+- Unreal Engine plugins, editor scripting, and source builds
+- 3ds Max scripting, OSL, and content prep
+- Video and image batch processing (EXR, JPEG, FFmpeg)
 
-Here are some ideas to get you started:
+## Repos
+- UE utilities and fixes  
+- Pipeline and automation scripts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- https://blake.toys
